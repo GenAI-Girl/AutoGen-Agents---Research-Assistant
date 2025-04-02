@@ -1,4 +1,4 @@
-# AutoGen-AI Agents---Research-Assistant
+# AutoGen-AI Agents---Research-Assistant (Conversable Agents)
 
 Purpose:
 This project demonstrates how a Research Assistant built using the autogen-agentchat library and OpenAI’s models can interact with different roles in an organization or research context. The assistant is designed to act as a conversational AI, facilitating communication and performing tasks across different user types, including admins, scientists, engineers, planners, and critics.
